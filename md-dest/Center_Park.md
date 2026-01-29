@@ -1,0 +1,1 @@
+Center Park was a neighborhood that was named because it is in the center of Downtown. It is the residence of the Exile contact known as The Sculptress, as well as her residing gang which she uses known as The Chisels.

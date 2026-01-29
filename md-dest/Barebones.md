@@ -1,0 +1,1 @@
+Barebones was the name of the Exile that led the Headless gang. They were usually located in the dark corner of Mars Industrial Storage, named because of their lack of heads. It was believed that he, like the rest of the gang, were originally script routines in an early test version of the Matrix simulation.
