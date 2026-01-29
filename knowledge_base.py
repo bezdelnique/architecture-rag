@@ -70,16 +70,16 @@ def make_replacer(mapping: dict[str, str]):
 def main() -> int:
     # You can change defaults here if you want.
     mapping_file = Path("titles.txt")  # file with "Old -> New"
-    src_dir = Path("md-dest")
+    src_dir = Path("knowledge_base_src")
     dst_dir = Path("knowledge_base")
 
-    # Or allow CLI args: script.py titles.txt md-dest knowledge_base
+    # Or allow CLI args: script.py titles.txt knowledge_base_src knowledge_base
     if len(sys.argv) == 4:
         mapping_file = Path(sys.argv[1])
         src_dir = Path(sys.argv[2])
         dst_dir = Path(sys.argv[3])
     elif len(sys.argv) != 1:
-        print("Usage: python rename_apply.py <titles.txt> <md-dest> <knowledge_base>", file=sys.stderr)
+        print("Usage: python rename_apply.py <titles.txt> <knowledge_base_src> <knowledge_base>", file=sys.stderr)
         return 2
 
     if not mapping_file.exists():
