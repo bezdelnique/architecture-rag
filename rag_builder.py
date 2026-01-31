@@ -19,9 +19,10 @@ def main() -> int:
     # idx: dict[str, Path] = {}
     for p in dst_dir.glob("*.md"):
 
-        if p.name not in ["Trinity", "Neo"]:
+        if not any(name in p.name for name in {"Trinity", "Neo"}):
             continue
 
+        print(f"[INFO] Processing {p.name}")
         title = p.stem.replace("_", " ")
         text = p.read_text(encoding="utf-8", errors="strict")
         collection = upsert_docs_to_chroma(make_embedding_docs(text, title))
