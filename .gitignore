@@ -1,2 +1,11 @@
-/.venv/
 /.idea
+/.venv/
+/__pycache__
+/.env
+
+/wiki-src
+/knowledge_base_html_src
+/knowledge_base_md_src
+
+/faiss_db/*
+
