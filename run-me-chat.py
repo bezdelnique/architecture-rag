@@ -13,7 +13,7 @@ init(autoreset=True)
 
 EMB_MODEL_NAME = "BAAI/bge-base-en-v1.5"
 RERANK_MODEL_NAME = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-CHROMA_PATH = "chroma_db"
+CHROMA_PATH = "chroma_db_final"
 COLLECTION_NAME = "matrix_bge-base"
 
 def spinner(stop_event, prefix="Thinking"):
@@ -40,7 +40,7 @@ def main():
         rerank_model_name=RERANK_MODEL_NAME,
         openai_base_url="https://api.deepseek.com",
         openai_api_key=os.environ['OPENAI_API_KEY_DEEPSEEK'],
-        safety=True
+        safety=os.environ['SAFETY'] or True
     )
     app = App(cfg)
 

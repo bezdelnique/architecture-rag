@@ -8,4 +8,5 @@
 /knowledge_base_md_src
 
 /faiss_db/*
+/chroma_db/*
 

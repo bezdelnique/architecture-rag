@@ -1,0 +1,13 @@
+Welcome to RAG Chat of QuantumForge Software
+Feel free to ask
+Type 'exit' or press Ctrl+C to quit
+
+> Who is the Neo?
+Q: Who is the Neo?
+I did not find any confirmation.
+
+> What is the Zion?
+Q: What is the Zion?
+I did not find any confirmation.
+
+>

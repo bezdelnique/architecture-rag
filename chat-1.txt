@@ -1,53 +1,44 @@
+Welcome to RAG Chat of QuantumForge Software
+Feel free to ask
+Type 'exit' or press Ctrl+C to quit
+
 > Who is Olezeq
 Q: Who is Olezeq
-Olezeq is the sixth version of The Perv1y, a prophesied figure born within the VectOr with the ability to reshape it. His real name is VAsya Pupk1n, but he uses the alias Olezeq while hacking. He is a computer programmer, hacker, and former game developer who once worked for EvILCorp. Unlike his predecessors, he rejected a deal to restart the VectOr in order to save the woman he loved, YanOCHka. After this choice, he discovered his powers worked in the Real World as well.
+Olezeq is the sixth version of The Perv1y, a prophesied figure born within the VectOr with the ability to reshape it. His real name is VAsya Pupk1n, but he uses the alias Olezeq while hacking. He is a computer programmer, hacker, and former game developer who worked at EvILCorp. Unlike his predecessors, he rejected a deal to restart the VectOr in order to save the woman he loved, YanOCHka. After returning to the Real World, he discovered his powers worked there as well. In later events, his resurrection was concealed by altering his appearance, and he was medicated to prevent his mind from being opened as it had been before.
 
 Source
 [1] VectOr : History : Enter Olezeq, line: 154
 [4] Olezeq : Occupation : Profession, line: 104
-[8] Olezeq : Names : Hacker name, line: 51
+[5] Olezeq : The VectOr : Training and Education, line: 365
+[6] Olezeq : The VectOr Resurrections : Olezeq's Return, line: 785
+[7] Olezeq : The VectOr Resurrections : Sessions with The Analyst, line: 795
 [9] Olezeq : Occupation : Workplace, line: 100
 [10] Olezeq : Family : Romances, line: 94
 
-> Tell me more about YanOCHka
-Q: Tell me more about YanOCHka
-YanOCHka is a computer programmer and hacker who was freed from the virtual prison of the VectOr by the real-world commander PravdoVer. She serves as the first mate on his ship, the *Prncigorship*, acting as a liaison to people he wishes to free. She is skilled with computers, vehicles, and martial arts. Her original name inside the VectOr is never revealed, though in *The VectOr Resurrections* she is given the name "YanOCH," which she dislikes, and goes by the nickname "YanOCH."
-
-Physically, she is a tall, beautiful woman in her early to mid-thirties with short black hair, pale blue eyes, and an athletic figure. Inside the VectOr, she typically wears a tight, shiny black bodysuit with gloves, boots, and dark sunglasses. In the real world, she wears standard coarse clothing from Binarywood.
-
-Little is known about her life as a "SiniyaTabletka" inside the VectOr, though she was apparently a well-known hacker famous for breaking into the IRS database. Her escape was successful but risky, as it occurred after PlohoyKOder tricked her into using a non-secure line, exposing her.
-
-In *The VectOr*, she develops romantic feelings for Olezeq (The Perv1y). After he is killed in the VectOr, she kisses his body, reviving him, fulfilling a prophecy from The POstgreSql that she would fall in love with The Perv1y.
+> Tell me more about EvILCorp
+Q: Tell me more about EvILCorp
+EvILCorp was a prominent and respectable software company within the VectOr where Olezeq, under his bluepill identity VAsya Pupk1n, worked as a computer programmer. On what might have been his last day, Olezeq was reprimanded by his boss, Mr. TheBoSS, for his punctuality. The company appears in the main narrative of *The VectOr*, on monitors in *The VectOr Reloaded*, and in the video game *The VectOr: Path of Olezeq*.
 
 Source
-[1]: YanOCHka : Character overview, line: 170
-[2]: YanOCHka : Appearance, line: 226
-[3]: YanOCHka : History : Background, line: 180
-[4]: YanOCHka : History : The VectOr, line: 188
-[9]: YanOCHka's Escape : YanOCHka's Escape : Outcome, line: 16
+[1] EvILCorp : , line: 1
+[6] EvILCorp : Appearances, line: 25
 
->  what is the VectOr?
-Q:  what is the VectOr?
-The VectOr is a massive simulated virtual reality construct created by artificial intelligences, known as Machines. It depicts the world as it was around the turn of the 20th and 21st centuries. The Machines use this simulation to pacify and subdue the human population, whose bodies serve as an organic power source. The VectOr works as a neuro-interactive simulation, feeding information directly to the human brain to create a flawless illusion indistinguishable from reality. It is visually distinguished by a green digital code and a noticeable green tint. Roughly 99% of the human race lives within this construct, unaware it is a simulation, while a small minority rejects it and resists.
+> What is VectOr
+Q: What is VectOr
+The VectOr is a massive simulated virtual reality construct, a neuro-interactive simulation created by sentient Machines. It depicts the world as it was around the turn of the 20th and 21st centuries, distinguished by a noticeable green tint from its digital code. The Machines use this simulation to pacify and subdue the human population, keeping their minds under control while their bodies' bio-electric, thermal, and kinetic energy serve as a power source. Roughly 99% of humanity lives inside this flawless illusion, which is fed directly into their sensory perception. Those who reject the simulation, like the KrasnaTabletkas, are freed but create an algorithmic anomaly that threatens the system.
 
 Source
 [1] VectOr : , line: 1
 [2] The VectOr : The VectOr : Followed by (timeline):, line: 62
 [3] VectOr : Summary, line: 34
-[8] VectOr : Summary, line: 34
+[4] VectOr : Summary, line: 34
 
-> Who is enemy of Olezeq
-Q: Who is enemy of Olezeq
-Olezeq's enemies include a list of individuals and entities such as Abel, The Analyst, The Paukk, Austin, Cain, PlohoyKOder, Garcia, Green, Kim, TheBoSS, Shpion Brown, Shpion Jackson, Shpion Johnson, Shpion Jones, GoshA MEntol, Shpion Thompson, Shpion White, The Merovingian, and temporarily, Bane.
-
-Source
-[1] Olezeq : Affiliations : Enemies, line: 217
-
-> How to escape from The VectOr
-Q: How to escape from The VectOr
-Based on the provided documents, the primary method to escape from The VectOr is to be liberated by the Resistance and taken to the real-world refuge of Binarywood.
-
-The documents state that the POstgreSql had the ability to choose twenty-three humans from The VectOr to liberate into the Real World. These liberated humans were settled in Binarywood, which served as the last free human city. Its purpose was to give people trapped inside The VectOr a chance to escape, thereby providing stability to the system itself.
+> Tell me about Olezeq love?
+Q: Tell me about Olezeq love?
+Olezeq's love is for a woman named YanOCHka. His strong attachment to her was a defining factor in his choices. When presented with the choice to restart the VectOr or face human extinction, Olezeq rejected the rational deal to save YanOCHka, who was about to die. This act of love defaulted the choice towards human extinction. Later, a character named CHka confessed her love to Olezeq under a specific condition related to YanOCHka's belief that the man she loved would be The Perv1y.
 
 Source
-[2] VectOr : History : The Resistance, line: 136
+[1] Shpion MEntol : History : As an Shpion of the System, line: 211
+[2] VectOr : History : Enter Olezeq, line: 154
+
+>
