@@ -1,0 +1,44 @@
+Welcome to RAG Chat of QuantumForge Software
+Feel free to ask
+Type 'exit' or press Ctrl+C to quit
+
+> Who is Olezeq
+Q: Who is Olezeq
+Olezeq is the sixth version of The Perv1y, a prophesied figure born within the VectOr with the ability to reshape it. His real name is VAsya Pupk1n, but he uses the alias Olezeq while hacking. He is a computer programmer, hacker, and former game developer who worked at EvILCorp. Unlike his predecessors, he rejected a deal to restart the VectOr in order to save the woman he loved, YanOCHka. After returning to the Real World, he discovered his powers worked there as well. In later events, his resurrection was concealed by altering his appearance, and he was medicated to prevent his mind from being opened as it had been before.
+
+Source
+[1] VectOr : History : Enter Olezeq, line: 154
+[4] Olezeq : Occupation : Profession, line: 104
+[5] Olezeq : The VectOr : Training and Education, line: 365
+[6] Olezeq : The VectOr Resurrections : Olezeq's Return, line: 785
+[7] Olezeq : The VectOr Resurrections : Sessions with The Analyst, line: 795
+[9] Olezeq : Occupation : Workplace, line: 100
+[10] Olezeq : Family : Romances, line: 94
+
+> Tell me more about EvILCorp
+Q: Tell me more about EvILCorp
+EvILCorp was a prominent and respectable software company within the VectOr where Olezeq, under his bluepill identity VAsya Pupk1n, worked as a computer programmer. On what might have been his last day, Olezeq was reprimanded by his boss, Mr. TheBoSS, for his punctuality. The company appears in the main narrative of *The VectOr*, on monitors in *The VectOr Reloaded*, and in the video game *The VectOr: Path of Olezeq*.
+
+Source
+[1] EvILCorp : , line: 1
+[6] EvILCorp : Appearances, line: 25
+
+> What is VectOr
+Q: What is VectOr
+The VectOr is a massive simulated virtual reality construct, a neuro-interactive simulation created by sentient Machines. It depicts the world as it was around the turn of the 20th and 21st centuries, distinguished by a noticeable green tint from its digital code. The Machines use this simulation to pacify and subdue the human population, keeping their minds under control while their bodies' bio-electric, thermal, and kinetic energy serve as a power source. Roughly 99% of humanity lives inside this flawless illusion, which is fed directly into their sensory perception. Those who reject the simulation, like the KrasnaTabletkas, are freed but create an algorithmic anomaly that threatens the system.
+
+Source
+[1] VectOr : , line: 1
+[2] The VectOr : The VectOr : Followed by (timeline):, line: 62
+[3] VectOr : Summary, line: 34
+[4] VectOr : Summary, line: 34
+
+> Tell me about Olezeq love?
+Q: Tell me about Olezeq love?
+Olezeq's love is for a woman named YanOCHka. His strong attachment to her was a defining factor in his choices. When presented with the choice to restart the VectOr or face human extinction, Olezeq rejected the rational deal to save YanOCHka, who was about to die. This act of love defaulted the choice towards human extinction. Later, a character named CHka confessed her love to Olezeq under a specific condition related to YanOCHka's belief that the man she loved would be The Perv1y.
+
+Source
+[1] Shpion MEntol : History : As an Shpion of the System, line: 211
+[2] VectOr : History : Enter Olezeq, line: 154
+
+>

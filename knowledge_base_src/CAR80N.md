@@ -1,0 +1,3 @@
+Car8on (or Carabon) was an un-affiliated Exile in The Matrix Online who can be located in the One Zero construct. He claimed to have been an assembly line worker during pre-war 01. In a certain chapter, Merovingian operatives searched for him in order to find out more information on Operation Dark Storm, in order to improve it. Although he did not know about the storm itself or about its origins, it gave them a unique perspective of the Machines during the war, where the peaceful Machines were forced into war by the humans, who did not understand them.
+
+Even though Car8on has been exiled into the Matrix, he still retains a robotic form, although looking worn down.

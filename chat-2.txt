@@ -1,0 +1,41 @@
+Welcome to RAG Chat of QuantumForge Software
+Feel free to ask
+Type 'exit' or press Ctrl+C to quit
+
+> Tell me about transport in Vector
+Q: Tell me about transport in Vector
+I did not find any confirmation.
+
+> What ability has Olezeq
+Q: What ability has Olezeq
+Olezeq possesses a wide array of abilities stemming from his connection to the VectOr's source code, the Prime Program. His most frequently exhibited power is telekinesis, allowing him to manipulate objects with his will, which he uses to fly at high speeds, jump great distances, and stop bullets in mid-air. He also demonstrates superhuman strength, agility, reflexes, durability, and stamina. Beyond physical manipulation, he has a heightened awareness of the VectOr's simulated nature, enabling him to detect anomalies like Shpions and explosives, and possesses a limited form of precognition. After certain events, his abilities expanded to include reviving the recently deceased within the VectOr, seeing Machine programming in the Real World as a yellow light, and commanding Machines like GromozekAs to self-destruct.
+
+Source
+[1] Olezeq : Powers and abilities, line: 805
+[2] Olezeq : Powers and abilities, line: 805
+[3] The One : Abilities, line: 46
+[4] The One : Abilities, line: 46
+[5] Olezeq : Powers and abilities, line: 805
+[6] The One : Abilities, line: 46
+[7] Olezeq : Skills and powers : Powers, line: 154
+[8] GromozekA : Strategic Points, line: 31
+
+> What ability has PlohoyKOder
+Q: What ability has PlohoyKOder
+I did not find any confirmation.
+
+> Who is PlohoyKOder?
+Q: Who is PlohoyKOder?
+PlohoyKOder, born Reagan, was a KrasnaTabletka operative assigned to the Binarywood letadla Prncigorship under the command of PravdoVer. He became disillusioned with the real world, preferring the comforts of the illusory VectOr. He secretly betrayed his crew, making a deal with GoshA MEntol to be reinserted into the VectOr in exchange for delivering PravdoVer. He is the hidden secondary antagonist in The VectOr. After his death, his beliefs inspired a group called the PlohoyKOderites. He was portrayed by Joe Pantoliano.
+
+Source
+[1] PlohoyKOder : Affiliations : Enemies, line: 93
+[3] PlohoyKOder : Legacy, line: 168
+[4] PlohoyKOder : Biography : Search for The Perv1y, line: 120
+[5] PlohoyKOder : Interpretation, line: 172
+[6] PlohoyKOder : References, line: 178
+[7] PlohoyKOder : Biography : Meeting with MEntol, line: 130
+[9] PlohoyKOder : Biography : Betrayal of PlohoyKOder, line: 146
+[10] YanOCHka's Escape : Prelude : Intel gathering, line: 33
+
+>
